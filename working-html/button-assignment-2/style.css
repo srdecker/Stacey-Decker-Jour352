@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #62929E;
+}
+
+.red-button {
+    background-color:#E56B6F;
+    color:white;
+    font-size:14px;
+    border:none;
+    width:190px;
+    padding:20px;
+    margin-top:50px;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+    text-transform:lowercase;
+    letter-spacing: 1px;
+}
+
+.red-button:hover {
+    background-color:#B56576;
+}
+
+h1 {
+    font-family: 'Lato', serif;
+    font-weight:normal;
+    color:#FFFFFF;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight:;
+    color: #C6C5B9;
+   text-transform:;
+    font-size:20px;
+    float:
+}
