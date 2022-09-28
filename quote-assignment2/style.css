@@ -1,0 +1,30 @@
+/*
+MY COLOR PALETTE
+Beige - #C6C5B9
+Blue - #62929E
+Dark blue - #4A6D7C
+Dark pink - #B56576
+Pink - #E56B6F
+*/
+
+body {
+    background-color:#C6C5B9;
+    text-align:center;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    text-align:center;
+    font-size:44px;
+    font-family: 'Courgette', cursive;
+    color:#4A6D7C;
+    border:3px solid #62929E;
+    padding:60px 30px 10px 30px;
+    margin:auto;
+}
+
+#highlight {
+    color:#B56576;
+    font-weight:bold;
+}
