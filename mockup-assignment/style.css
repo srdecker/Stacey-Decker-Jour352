@@ -1,0 +1,43 @@
+/*
+MY COLOR PALETTE
+Beige - #C6C5B9
+Blue - #62929E
+Dark blue - #4A6D7C
+Dark pink - #B56576
+Pink - #E56B6F
+*/
+
+body {
+    text-align:center;
+}
+
+header {
+    background-image: url(taylor-heery-hv2yJQdxyi0-unsplash.jpg);
+    background-size:cover;
+    height:400px;
+    color: #FFFFFF
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.35);
+    height:100%;
+    text-align:center;
+}
+
+p {
+    font-size:6em;
+    padding: 50px 0px 50px 0px;
+    margin:0px;
+    color:#ffffff;
+}
+
+.headshot {
+    background-image: url(brooke-cagle-V3twiVfbhz0-unsplash.jpg);
+    border-radius: 500px;
+    border: 10px solid white;
+    background-position: center center;
+    background-size:cover;
+    width:300px;
+    height:300px;
+    margin:auto;
+}
