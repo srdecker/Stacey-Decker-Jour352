@@ -1,28 +1,42 @@
+/*xsmall*/
 @media {
+        h2 {
+        font-size: 20px;
+    }
+}
+
+/*small*/
+@media (min-width: 576px) {
     h2 {
         font-size: 30px;
     }
 }
-
+/*medium*/
 @media (min-width: 768px) {
     h2 {
-        font-size: 55px;
+        font-size: 45px;
     }
 }
 
+/*large*/
 @media (min-width: 992px) {
+    h2 {
+        font-size: 60px;
+    }
+}
+/*xlarge*/
+@media (min-width: 1200px) {
     h2 {
         font-size: 72px;
     }
 }
-
-@media (min-width: 1200px) {
+/*xxlarge*/
+@media (min-width: 1400px) {
     h2 {
         font-size: 100px;
     }
 }
 
-@media (min-width: 1400px) { ... }
 
 .container-fluid {
     background-color:darkred;
