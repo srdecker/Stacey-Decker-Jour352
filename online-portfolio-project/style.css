@@ -13,3 +13,20 @@ h1 {
 #title {
     font-weight:bold;
 }
+
+#headshot {
+    width:100%;
+    border:3px solid black;
+    padding:0px;
+    margin:0px;
+    border-radius: 1000px;
+}
+
+#headshot2 {
+    width:300px;
+    height:300px;
+    border:3px solid black;
+    padding:0px;
+    border-radius: 1000px;
+    background-image:url(331111-5d4047f865b00.jpg);
+}
