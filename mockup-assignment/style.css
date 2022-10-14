@@ -14,14 +14,11 @@ body {
 header {
     background-image: url(taylor-heery-hv2yJQdxyi0-unsplash.jpg);
     background-size:cover;
-    height:400px;
-    color: #FFFFFF
 }
 
 .overlay {
     background: rgba(0, 0, 0, 0.35);
     height:100%;
-    text-align:center;
 }
 
 p {
