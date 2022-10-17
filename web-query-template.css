@@ -1,0 +1,33 @@
+@media {
+    /*Phone styles here*/
+    /*This media query targets any screen smaller than 576px wide (see below)*/
+    
+h1
+    {
+        background-color:black;
+        color:white;
+        font-family:arial;
+        font-size:30px;
+        text-align:center;
+    }
+}
+
+@media (min-width: 576px) {
+    /*Tablet-only styles here*/
+    /*This media query targets any screen that is at least 576px wide (but smaller than 992px wide (see below)*/
+h1
+    {
+        font-size:50px;
+    }
+}
+
+@media (min-width: 992px) {
+    /*Desktop-only styles here*/
+    /*This media query targets any screen that is at least 992px wide*/
+    
+h1
+    {
+        font-size:80px;
+    }
+    
+}
