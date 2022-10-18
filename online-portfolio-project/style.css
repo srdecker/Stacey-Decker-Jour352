@@ -56,6 +56,28 @@ h2 {
     background-color:#B56576;
 }
 
+    
+/*Styling for boxes*/
+#squares {
+    padding:0px 0px 0px 0px;  
+    }
+    
+.bgcolor1 {
+    background-color: aqua;
+    width:100%;
+    margin:0px 0px 0px 0px;
+    height:50%;
+    }
+    
+.bgcolor2 {
+    background-color:pink;
+    width:100%;
+    margin:0px 0px 0px 0px;
+    height:50%;
+}
+    
+
+    
 /*Nav Styles*/
 .nav {
     background-color:#62929E;
