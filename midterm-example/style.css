@@ -1,0 +1,50 @@
+@media {
+body {
+    font-family: Georgia, serif;
+}
+
+    #article {
+        width:90%;
+            margin:auto;
+
+    }
+.byline {
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+.date {
+    font-size:10px;
+    color:gray;
+}
+
+#lead {
+    width:100%;
+}
+    
+#secondary {
+    width:50px; 
+    border-radius: 500px;
+    }
+    
+    
+#footer{
+    position:fixed;
+    bottom:0px;
+    background-color:black;
+    color:white;
+    padding:20px;
+    width:100%;
+    }
+    
+    h1 {
+        font-size:50px;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+
+    h1 {
+        font-size:90px;
+    }
+}

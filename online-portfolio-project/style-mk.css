@@ -1,0 +1,150 @@
+@media {
+#body {
+background-color: #1F109F;
+}
+
+
+#headshot {
+    width:175px;
+}
+
+#topper {
+    background-color: #1F109F;
+    text-align: center
+    
+}
+
+button{
+    background-color:#9368b7;
+    color:white;
+    font-family: 'open sans', sans-serif;
+    width: 200px;
+    padding: 10px;
+    margin: 10px 0px 0px 0px; 
+    border-radius: 30px;
+    border:none;
+    
+}
+
+button:hover {
+    background-color: #00aacc
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    color:#00aacc;
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    background-color:#1F109F;
+    color: #14DD36;
+    text-align: center; 
+    
+    
+    
+}
+
+h3 {
+    color: #ED1313;
+   
+    
+}
+ 
+h4 {
+color:#ED1313;
+   
+}
+
+h5 { 
+    color:#ED1313;
+}
+
+
+
+.nav {
+    background-color:white;
+    color:#00aacc;
+    border-radius: 30px;
+    word-spacing: 20px;
+    margin: 15px 0px 15px 0px
+}
+
+    .nav a {
+        color:#00aacc; 
+    }    
+    
+    .nav a: hover {
+        color:#00aacc; 
+    }    
+    
+#experience {
+    
+}
+
+#big-ten-plus {
+    
+}
+
+
+#radio {
+
+}
+
+
+#writing {
+
+}
+
+
+#hrb {
+
+}
+
+
+#pitch {
+
+}
+
+#education {
+
+}
+
+
+#skills {
+     
+}
+
+/* Contact Button End */
+
+
+/*--Image*/
+
+.center {
+    
+}
+
+#footer {
+    background-color:#9368b7;
+    color:#000000;
+    
+}
+
+nav ul li{
+    display:inline-block;
+}
+}
+
+@media (min-width: 576px) {
+    /*Tablet-only styles here*/
+    /*This media query targets any screen that is at least 576px wide (but smaller than 992px wide (see below)*/
+}
+
+@media (min-width: 992px) {
+    /*Desktop-only styles here*/
+    /*This media query targets any screen that is at least 992px wide*/
+}
