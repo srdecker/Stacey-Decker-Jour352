@@ -1,0 +1,58 @@
+@media {
+    /*Phone styles here*/
+    /*This media query targets any screen smaller than 576px wide (see below)*/
+    
+    .leadimage {
+        width:100%;
+    }
+
+    
+
+    .pullquote {
+        padding:30px 0px 30px 0px;
+    }
+    
+    .quote-top-line {
+        border-top:3px solid black;
+        width:100%;
+}
+    
+    .quotemark {
+        float:left;
+        font-size:100px;
+        font-weight:bold;
+        line-height:.8;
+        padding:0px 10px 0px 0px;
+    }
+    
+    .quote {
+        padding:10px 0px 10px 0px;
+    }
+    
+    .attribution {
+        text-align:right;
+        padding:0px 20px 10px 0px;
+    }
+    
+    .quote-bottom-line {
+        border-bottom:3px solid black;
+        width:50%;
+        margin: auto;
+}
+    
+}
+
+@media (min-width: 576px) {
+    /*Tablet-only styles here*/
+    /*This media query targets any screen that is at least 576px wide (but smaller than 992px wide (see below)*/
+}
+
+@media (min-width: 992px) {
+    /*Desktop-only styles here*/
+    /*This media query targets any screen that is at least 992px wide*/
+}
+
+@media (min-width: 1200px) {
+    /*Large-Desktop-only styles here*/
+    /*This media query targets any screen that is at least 1200px wide*/
+}
